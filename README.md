@@ -1,2 +1,3 @@
 # fractal_python_sj
-Building a pipeline
+##This is a demo for Jenkins for building cicd pipelines
+Building a pipeline on Jenkins Server for Python code
